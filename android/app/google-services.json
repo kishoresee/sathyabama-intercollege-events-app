@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703412818688",
+    "project_id": "sathyabama-events",
+    "storage_bucket": "sathyabama-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703412818688:android:5a1d29e6f6596163e799e5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6E2gW1DXl8FTs-8cUxXJHhayeJMZkSgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
